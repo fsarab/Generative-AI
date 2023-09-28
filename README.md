@@ -6,14 +6,14 @@ This repository contains my implementation for the "Generative AI with Large Lan
 
 The course is divided into three modules, each covering different aspects of generative AI and LLMs. Here's a brief overview of each module:
 
-### Module 1: Generative AI Use Cases and Model Pre-training
-In this module, I learned about the project lifecycle of generative AI and LLMs. I gained insights into the transformer architecture that powers LLMs, their training process, and the concept of fine-tuning. Additionally, I explored various topics such as generative configuration, scaling laws, and computational challenges associated with training LLMs.
+### Week 1: Generative AI Use Cases and Model Pre-training
+In this Week, I learned about the project lifecycle of generative AI and LLMs. I gained insights into the transformer architecture that powers LLMs, their training process, and the concept of fine-tuning. Additionally, I explored various topics such as generative configuration, scaling laws, and computational challenges associated with training LLMs.
 
-### Module 2: Fine-tuning and Evaluating Large Language Models
-Module 2 focused on the fine-tuning process and evaluating LLMs. I learned about different techniques for fine-tuning LLMs on specific tasks and explored model evaluation methods and benchmarks. The module also covered parameter efficient fine-tuning and its associated techniques.
+### Week 2: Fine-tuning and Evaluating Large Language Models
+Week 2 focused on the fine-tuning process and evaluating LLMs. I learned about different techniques for fine-tuning LLMs on specific tasks and explored model evaluation methods and benchmarks. The module also covered parameter efficient fine-tuning and its associated techniques.
 
-### Module 3: Reinforcement Learning and LLM-powered Applications
-In the final module, I delved into reinforcement learning and its applications in LLM-powered systems. I gained an understanding of aligning models with human values, reinforcement learning from human feedback, and model optimizations for deployment. The module also covered topics like program-aided language models, reasoning and action, and responsible AI.
+### Week 3: Reinforcement Learning and LLM-powered Applications
+In the final week, I delved into reinforcement learning and its applications in LLM-powered systems. I gained an understanding of aligning models with human values, reinforcement learning from human feedback, and model optimizations for deployment. The module also covered topics like program-aided language models, reasoning and action, and responsible AI.
 
 ## Prerequisites
 
@@ -27,9 +27,9 @@ To make the most out of this implementation, it is recommended to have the follo
 
 The repository is organized as follows:
 
-- **Module1**: This directory contains the implementation and code related to Module 1 of the course.
-- **Module2**: Here, you can find the code and implementation for Module 2.
-- **Module3**: This directory includes the code and implementation for Module 3.
+- **Week1**: This directory contains the implementation and code related to Week1  of the course.
+- **Week2**: Here, you can find the code and implementation for Week2.
+- **Week1**: This directory includes the code and implementation for Week3.
 - **README.md**: The main readme file providing an overview of the repository and its contents.
 
 Feel free to explore the code and implementations in each module directory to gain a deeper understanding of generative AI with large language models.
